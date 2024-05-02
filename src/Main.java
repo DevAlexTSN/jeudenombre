@@ -22,7 +22,7 @@ public class Main {
             System.out.println("Le nombre entré est égal à zéro.");
         }
 
-        // Vérification si le nombre est pair ou impair
+        // Vérification si le nombre est pair ou impair utilisation du modulo 2
         if (nombre % 2 == 0) {
             System.out.println("Le nombre est pair.");
         } else {
